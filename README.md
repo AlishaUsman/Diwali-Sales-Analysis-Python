@@ -49,11 +49,6 @@ This project analyzes Diwali sales data using Python to understand customer purc
 
 ---
 
-## 📊 Visualizations
-
-(Add screenshots here after uploading images folder)
-
----
 
 ## ⚙️ Key Concepts Used
 
@@ -103,9 +98,11 @@ This project analyzes Diwali sales data using Python to understand customer purc
 ## 👩‍💻 Author
 
 **Alisha Usman**
+
 Aspiring Data Analyst
 
 🔗 LinkedIn: https://www.linkedin.com/in/alishausman
+
 💻 GitHub: https://github.com/AlishaUsman
 
 ---
