@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project focuses on analyzing Diwali sales data using Python to understand customer purchasing behavior and improve business decision-making.
+This project analyzes Diwali sales data using Python to understand customer purchasing behavior and generate actionable business insights.
 
 ---
 
@@ -49,6 +49,12 @@ This project focuses on analyzing Diwali sales data using Python to understand c
 
 ---
 
+## 📊 Visualizations
+
+(Add screenshots here after uploading images folder)
+
+---
+
 ## ⚙️ Key Concepts Used
 
 * Data Cleaning
@@ -72,10 +78,19 @@ This project focuses on analyzing Diwali sales data using Python to understand c
 
 ## 📈 Key Insights
 
-* Female customers have higher purchasing power
-* Age group 26–35 contributes most to sales
-* Certain states generate maximum revenue
-* Specific product categories dominate sales
+* Female customers contribute a higher share of total sales
+* Age group 26–35 contributes the most to overall revenue
+* Certain states generate maximum sales volume
+* A few product categories dominate total revenue
+
+---
+
+## 📌 Business Recommendations
+
+* Target female customers aged 26–35 with personalized campaigns
+* Focus on high-performing product categories for inventory planning
+* Increase marketing efforts in top-performing states
+* Use seasonal trends to optimize sales strategy
 
 ---
 
@@ -90,13 +105,11 @@ This project focuses on analyzing Diwali sales data using Python to understand c
 **Alisha Usman**
 Aspiring Data Analyst
 
-🔗 Connect with me:
-
-* 🔗 LinkedIn: https://www.linkedin.com/in/alishausman
-* 💻 GitHub: https://github.com/AlishaUsman
+🔗 LinkedIn: https://www.linkedin.com/in/alishausman
+💻 GitHub: https://github.com/AlishaUsman
 
 ---
 
 ## 🧠 Conclusion
 
-*This project highlights how data analysis can uncover hidden patterns in customer behavior and help businesses make data-driven decisions.*
+*This project demonstrates how data analysis can uncover patterns in customer behavior and support data-driven business decisions.*
